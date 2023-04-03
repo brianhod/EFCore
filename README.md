@@ -1,2 +1,2 @@
 # EFCore
-Some Tips and Tricks about EF Cores
+Some Tips and Tricks about EF Core
